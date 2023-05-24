@@ -15,6 +15,12 @@ This tutorial provides a step-by-step guide on fine-tuning image classification 
 
 
 
+## In-Browser Demo
+
+* [https://cj-mills.github.io/pytorch-timm-gesture-recognition-tutorial-code/](https://cj-mills.github.io/pytorch-timm-gesture-recognition-tutorial-code/)
+
+
+
 ## Training Code
 
 | Jupyter Notebook                                             | Google Colab                                                 |
@@ -27,3 +33,4 @@ This tutorial provides a step-by-step guide on fine-tuning image classification 
 ## License
 
 Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more information.
+
