@@ -1,6 +1,6 @@
 # Hands-On Hand Gesture Recognition: Fine-Tuning Image Classifiers with PyTorch and the timm library for Beginners
 
-This repository contains the training code for my beginner-friendly tutorial titled "Hands-On Hand Gesture Recognition: Fine-Tuning Image Classifiers with PyTorch and the timm library for Beginners".
+
 
 ## Description
 
@@ -17,9 +17,9 @@ This tutorial provides a step-by-step guide on fine-tuning image classification 
 
 ## Training Code
 
-| Jupyter Notebook  | Google Colab  |
-| ----------------- | ------------- |
-| GitHub Repository | Open In Colab |
+| Jupyter Notebook                                             | Google Colab                                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [GitHub Repository](https://github.com/cj-mills/pytorch-timm-gesture-recognition-tutorial-code/blob/main/notebooks/pytorch-timm-image-classifier-training.ipynb) | [Open In Colab](https://colab.research.google.com/github/cj-mills/pytorch-timm-gesture-recognition-tutorial-code/blob/main/notebooks/pytorch-timm-image-classifier-training-colab.ipynb) |
 
 
 
