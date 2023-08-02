@@ -1,4 +1,4 @@
-# Hands-On Gesture Recognition: Fine-Tuning Image Classifiers with PyTorch and the timm library for Beginners
+# Fine-Tuning Image Classifiers with PyTorch and the timm library for Beginners
 
 
 
@@ -11,7 +11,7 @@ This tutorial provides a step-by-step guide on fine-tuning image classification 
 
 ## Tutorial Links
 
-* [Hands-On Gesture Recognition: Fine-Tuning Image Classifiers with PyTorch and the timm library for Beginners](https://christianjmills.com/posts/pytorch-train-image-classifier-timm-hf-tutorial/)
+* [Fine-Tuning Image Classifiers with PyTorch and the timm library for Beginners](https://christianjmills.com/posts/pytorch-train-image-classifier-timm-hf-tutorial/)
 
 
 
