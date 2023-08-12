@@ -1,0 +1,7 @@
+/notebooks/pretrained_checkpoints/*
+/notebooks/pytorch-timm-image-classifier/*
+/notebooks/.ipynb_checkpoints/*
+/notebooks/*.ttf
+/notebooks/*.jpg
+/notebooks/*.png
+/notebooks/*.onnx
