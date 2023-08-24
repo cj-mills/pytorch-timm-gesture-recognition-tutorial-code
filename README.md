@@ -25,7 +25,17 @@ This tutorial provides a step-by-step guide on fine-tuning image classification 
 
 | Jupyter Notebook                                             | Google Colab                                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [GitHub Repository](https://github.com/cj-mills/pytorch-timm-gesture-recognition-tutorial-code/blob/main/notebooks/pytorch-timm-image-classifier-training.ipynb) | [Open In Colab](https://colab.research.google.com/github/cj-mills/pytorch-timm-gesture-recognition-tutorial-code/blob/main/notebooks/pytorch-timm-image-classifier-training-colab.ipynb) |
+| [GitHub Repository](https://github.com/cj-mills/pytorch-timm-gesture-recognition-tutorial-code/blob/main/notebooks/pytorch-timm-image-classifier-training.ipynb) | [Open In Colab](https://colab.research.google.com/github/cj-mills/pytorch-timm-gesture-recognition-tutorial-code/blob/main/notebooks/pytorch-timm-image-classifier-onnx-export-colab.ipynb) |
+
+
+
+## ONNX Export
+
+| Jupyter Notebook                                             | Google Colab                                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [GitHub Repository](https://github.com/cj-mills/pytorch-timm-gesture-recognition-tutorial-code/blob/main/notebooks/pytorch-timm-image-classifier-training.ipynb) | [Open In Colab](https://colab.research.google.com/github/cj-mills/pytorch-timm-gesture-recognition-tutorial-code/blob/main/notebooks/pytorch-timm-image-classifier-onnx-export-colab.ipynb) |
+
+
 
 
 
