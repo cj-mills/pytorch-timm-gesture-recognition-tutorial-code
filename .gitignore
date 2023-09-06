@@ -6,3 +6,4 @@
 /notebooks/*.png
 /notebooks/*.onnx
 /notebooks/__pycache__/*
+/notebooks/*.bat
