@@ -1,6 +1,7 @@
 # Fine-Tuning Image Classifiers with PyTorch and the timm library for Beginners
 
-
+> [!WARNING]
+> **This repository is outdated and no longer maintained.** It was last updated in November 2024, and its code may not run with current versions of its dependencies. It is kept as it was for reference; nothing in it is being fixed.
 
 ## Description
 
